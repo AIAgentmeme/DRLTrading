@@ -1,4 +1,4 @@
-# README: **Deep Reinforcement Learning for Automated Crypto Trading**
+# **Deep Reinforcement Learning for Automated Crypto Trading**
 
 ## Overview
 
