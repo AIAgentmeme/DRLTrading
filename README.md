@@ -135,7 +135,7 @@ The script will:
 ## References
 
 - **Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy**  
-  *Jiang, Zhu, and Liang (2017)*  
+  *Jiang, Zhu, and Liang (2020)*
 
 ---
 
